@@ -10,4 +10,5 @@
 
 * The webpage solves multiple problems including marketing, sales, and optimisation. It utilazes all available tools that an affective web presentation can offer. 
 
-* I learned that an interrctive and welcoming wep representation is a critical tool for businesses who seaking a successful gtowth in a competative market. 
+* I learned that an interrctive and welcoming wep representation is a critical tool for businesses who seaking a successful gtowth in a competative market.
+* file:///Users/katya/Bootcamp_repos-downloads/urban-octo-telegram/Develop/develop.html
