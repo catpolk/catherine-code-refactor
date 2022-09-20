@@ -14,3 +14,5 @@ My project stand out because it is properly refactored and contains quality comm
 URL link: https://catpolk.github.io/catherine-code-refactor/
 Github link: https://github.com/catpolk/catherine-code-refactor
 
+![screenshot of the website 1](./assets/images/screenshot1.jpeg)
+![screenshot of the website 2](./assets/images/screenshot2.jpeg)
